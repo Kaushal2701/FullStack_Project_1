@@ -9,5 +9,7 @@ Install or update this dependencies
 
 Add the developer side ClientID, ClientSecret, mongodb link and cookie keys in the server/config/dev.js file on ur pc.
 
+Also create a .gitignore file so that you don't commit/upload the dev.js file and node_modules folder. 
+
 This app is under deployment
 It will be updated in future
